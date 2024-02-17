@@ -1,0 +1,8 @@
+---
+title: Title
+author: 
+  - name: Name
+    affiliation: Affiliation
+format: revealjs
+jupyter: python3
+---
